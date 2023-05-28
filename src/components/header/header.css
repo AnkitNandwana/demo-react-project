@@ -1,0 +1,19 @@
+
+.header_component {
+	display:flex;
+	justify-content: center;
+
+}
+.header_component .header_color{
+	color:  red;
+	padding: 9px;
+    border: 2px solid black;
+    margin: 10px;
+
+}
+.header_component .header_display {
+	
+	background-color: blue;
+	align-items: center;
+}
+
